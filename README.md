@@ -2,4 +2,6 @@
 
 Editing attempt
 
-A little more editing to see the difference.
+A little more editing to see the diff.
+
+But I don't fully get it.
